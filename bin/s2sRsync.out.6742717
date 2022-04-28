@@ -1,0 +1,11 @@
+
+Currently Loaded Modules:
+  1) ncarenv/1.3    3) ncarcompilers/0.5.0   5) netcdf/4.7.4
+  2) intel/19.0.5   4) openmpi/4.0.5
+
+ 
+
+sending incremental file list
+rsync: mkdir "/ftp/pub/jedwards/S2SHINDCASTS/p1/pr_sfc" failed: No such file or directory (2)
+rsync error: error in file IO (code 11) at main.c(657) [Receiver=3.1.2]
+DONE

@@ -1,0 +1,31 @@
+
+Currently Loaded Modules:
+  1) ncarenv/1.3    3) ncarcompilers/0.5.0   5) netcdf/4.7.4
+  2) intel/19.0.5   4) openmpi/4.0.5
+
+ 
+
+2021-01-04
+ls: cannot access /glade/scratch/ssfcst/archive/cesm2cam6.2021-01-04.00/atm/hist/*cam.h2.*: No such file or directory
+ls: cannot access /glade/scratch/ssfcst/archive/cesm2cam6.2021-01-04.00/atm/hist/*cam.h1.*: No such file or directory
+ls: cannot access /glade/scratch/ssfcst/archive/cesm2cam6.2021-01-04.00/atm/hist/*cam.h2.*: No such file or directory
+ls: cannot access /glade/scratch/ssfcst/archive/cesm2cam6.2021-01-04.00/atm/hist/*cam.h2.*: No such file or directory
+Running for members 0 to 20
+Running postprocessing for member 0 on date 2021-01-04
+ICE PATH
+/glade/scratch/ssfcst/cesm2cam6v2/ice
+Combining cice files into cesm2cam6v2.01.2021-01-04.00.cice.hd.nc in /glade/scratch/ssfcst/archive/cesm2cam6.2021-01-04.00/ice/hist
+RUN: ncrcat -4 -L 1 *.cice.h.*.nc -O /glade/scratch/ssfcst/cesm2cam6v2/ice/cesm2cam6v2.01.2021-01-04.00.cice.hd.nc
+Traceback (most recent call last):
+  File "sg_postprocess.py", line 230, in <module>
+    _main_func(__doc__)
+  File "sg_postprocess.py", line 170, in _main_func
+    run_cmd("ncrcat -4 -L 1 *.cice.h.*.nc -O {}".format(os.path.join(outdir,fnameout)),from_dir=icehistpath,verbose=True)
+  File "/glade/u/home/ssfcst/cesm2_1/cime/scripts/lib/CIME/utils.py", line 442, in run_cmd
+    env=env)
+  File "/usr/lib64/python2.7/subprocess.py", line 711, in __init__
+    errread, errwrite)
+  File "/usr/lib64/python2.7/subprocess.py", line 1327, in _execute_child
+    raise child_exception
+OSError: [Errno 2] No such file or directory: '/glade/scratch/ssfcst/archive/cesm2cam6.2021-01-04.00/ice/hist'
+DONE

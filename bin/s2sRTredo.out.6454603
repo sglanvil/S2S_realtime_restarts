@@ -1,0 +1,81 @@
+
+Currently Loaded Modules:
+  1) ncarenv/1.3    3) ncarcompilers/0.5.0   5) netcdf/4.7.4
+  2) intel/19.0.5   4) openmpi/4.0.5
+
+ 
+
+2001-12-10
+ncclose: ncid 131072: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 196608: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 262144: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 327680: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 393216: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 458752: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 524288: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 589824: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 655360: NetCDF: Can't open HDF5 attribute
+Running for members 5 to 5
+Running postprocessing for member 5 on date 2001-12-10
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_100/2001/12/ta_100_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_10/2001/12/ta_10_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_30/2001/12/ta_30_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_50/2001/12/ta_50_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ua_10/2001/12/ua_10_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/va_10/2001/12/va_10_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ua_30/2001/12/ua_30_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/va_30/2001/12/va_30_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ua_50/2001/12/ua_50_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/va_50/2001/12/va_50_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_10/2001/12/zg_10_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_30/2001/12/zg_30_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_50/2001/12/zg_50_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_850/2001/12/zg_850_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/rlut/2001/12/rlut_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/pr_sfc/2001/12/pr_sfc_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/tas_2m/2001/12/tas_2m_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/ts/2001/12/ts_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/ua_200/2001/12/ua_200_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/ua_850/2001/12/ua_850_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/va_200/2001/12/va_200_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/va_850/2001/12/va_850_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/zg_200/2001/12/zg_200_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/zg_500/2001/12/zg_500_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/huss_850/2001/12/huss_850_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/tasmax_2m/2001/12/tasmax_2m_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/tasmin_2m/2001/12/tasmin_2m_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/hfss_sfc/2001/12/hfss_sfc_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/hfls_sfc/2001/12/hfls_sfc_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/stx_sfc/2001/12/stx_sfc_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/sty_sfc/2001/12/sty_sfc_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/rad_sfc/2001/12/rad_sfc_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/sic/2001/12/sic_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/cape/2001/12/cape_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/wap_500/2001/12/wap_500_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/psl/2001/12/psl_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/ua_100/2001/12/ua_100_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/va_100/2001/12/va_100_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/uvas/2001/12/uvas_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/snc/2001/12/snc_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/mrro/2001/12/mrro_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/rzsm/2001/12/rzsm_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/mrso/2001/12/mrso_cesm2cam6v2_10dec2001_00z_d01_d46_m05.nc
+ICE PATH
+/glade/scratch/ssfcst/cesm2cam6v2/ice
+Combining cice files into cesm2cam6v2.12.2001-12-10.05.cice.hd.nc in /glade/scratch/ssfcst/archive/cesm2cam6.2001-12-10.05/ice/hist
+RUN: ncrcat -4 -L 1 *.cice.h.*.nc -O /glade/scratch/ssfcst/cesm2cam6v2/ice/cesm2cam6v2.12.2001-12-10.05.cice.hd.nc
+  stat: 1
+
+  errput: ncrcat: ERROR file *.cice.h.*.nc not found. It does not exist on the local filesystem, nor does it match remote filename patterns (e.g., http://foo or foo.bar.edu:file).
+ncrcat: HINT file-not-found errors usually arise from filename typos, incorrect paths, missing files, or capricious gods. Please verify spelling and location of requested file. If the file resides on a High Performance Storage System (HPSS) accessible via the 'hsi' command, then add the --hpss option and re-try command.
+
+Copying ocn daily files into cesm2cam6v2.12.2001-12-10.05.pop.h.nday1.nc
+Copying /glade/scratch/ssfcst/archive/cesm2cam6.2001-12-10.05/atm/hist/cesm2cam6.2001-12-10.05.cam.h3.2001-12-10-00000.nc file into /glade/scratch/ssfcst/cesm2cam6v2/6hourly
+RUN: nccopy -4 -d 1 -VPS,PSL,UBOT,VBOT,Z200,Z500,U10,lat,lon,date,time_bnds,time,gw,ndcur,nscur,nsteph /glade/scratch/ssfcst/archive/cesm2cam6.2001-12-10.05/atm/hist/cesm2cam6.2001-12-10.05.cam.h3.2001-12-10-00000.nc  /glade/scratch/ssfcst/cesm2cam6v2/6hourly/cesm2cam6v2.2001-12-10.05.cam.h3.2001-12-10-00000.nc
+Copying /glade/scratch/ssfcst/archive/cesm2cam6.2001-12-10.05/atm/hist/cesm2cam6.2001-12-10.05.cam.h2.2001-12-10-00000.nc file into /glade/scratch/ssfcst/cesm2cam6v2/daily
+RUN: nccopy -4 -d 1 -VFLNT,FSNT,FLDS,FSDS,PRECC,PRECL,QREFHT,RHREFHT,RH600,PSL,PS,SNOWHICE,SNOWHLND,CLDTOT,TMQ,SST,LANDFRAC,OCNFRAC,UVzm,VTHzm,UWzm,WTHzm,TROP_P,TROP_T,THzm,Uzm,Vzm,Wzm,PHIS,WSPDSRFMX,WSPDSRFAV,QFLX,U10,TGCLDIWP,TGCLDLWP,lev,ilev,lat,lon,date,time_bnds,time,gw,ndcur,nscur,nsteph /glade/scratch/ssfcst/archive/cesm2cam6.2001-12-10.05/atm/hist/cesm2cam6.2001-12-10.05.cam.h2.2001-12-10-00000.nc /glade/scratch/ssfcst/cesm2cam6v2/daily/cesm2cam6v2.2001-12-10.05.cam.h2.2001-12-10-00000.nc
+LND OUTDIR:
+/glade/scratch/ssfcst/cesm2cam6v2/lnd/
+Copying /glade/scratch/ssfcst/archive/cesm2cam6.2001-12-10.05/lnd/hist/cesm2cam6.2001-12-10.05.clm2.h0.2001-12-10-00000.nc file into /glade/scratch/ssfcst/cesm2cam6v2/lnd/
+RUN: nccopy -4 -d 1 /glade/scratch/ssfcst/archive/cesm2cam6.2001-12-10.05/lnd/hist/cesm2cam6.2001-12-10.05.clm2.h0.2001-12-10-00000.nc /glade/scratch/ssfcst/cesm2cam6v2/lnd/cesm2cam6v2.2001-12-10.05.clm2.h0.2001-12-10-00000.nc
+DONE

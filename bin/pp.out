@@ -1,0 +1,70 @@
+ls: cannot access '/glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/atm/hist/*cam.h4.*': No such file or directory
+ncclose: ncid 131072: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 196608: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 262144: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 327680: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 393216: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 458752: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 524288: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 589824: NetCDF: Can't open HDF5 attribute
+ncclose: ncid 655360: NetCDF: Can't open HDF5 attribute
+Running for members 0 to 0
+Running postprocessing for member 0 on date 2009-08-03
+HERE rundir /glade/scratch/ssfcst/cesm2cam6.08.00/run.00 dout_s_root /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_100/2009/08/ta_100_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_10/2009/08/ta_10_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_30/2009/08/ta_30_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ta_50/2009/08/ta_50_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ua_10/2009/08/ua_10_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/va_10/2009/08/va_10_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ua_30/2009/08/ua_30_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/va_30/2009/08/va_30_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/ua_50/2009/08/ua_50_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/va_50/2009/08/va_50_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_10/2009/08/zg_10_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_30/2009/08/zg_30_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_50/2009/08/zg_50_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p3/zg_850/2009/08/zg_850_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/rlut/2009/08/rlut_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/pr/2009/08/pr_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/tas_2m/2009/08/tas_2m_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/ts/2009/08/ts_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/ua_200/2009/08/ua_200_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/ua_850/2009/08/ua_850_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/va_200/2009/08/va_200_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/va_850/2009/08/va_850_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/zg_200/2009/08/zg_200_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p1/zg_500/2009/08/zg_500_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/huss_850/2009/08/huss_850_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/tasmax_2m/2009/08/tasmax_2m_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/tasmin_2m/2009/08/tasmin_2m_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/hfss_sfc/2009/08/hfss_sfc_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/hfls_sfc/2009/08/hfls_sfc_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/stx_sfc/2009/08/stx_sfc_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/sty_sfc/2009/08/sty_sfc_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/rad_sfc/2009/08/rad_sfc_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/sic/2009/08/sic_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/cape/2009/08/cape_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/wap_500/2009/08/wap_500_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/psl/2009/08/psl_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/ua_100/2009/08/ua_100_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/va_100/2009/08/va_100_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/uvas/2009/08/uvas_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/snc/2009/08/snc_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/mrro/2009/08/mrro_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/rzsm/2009/08/rzsm_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+(0)	Completed file: /glade/scratch/ssfcst/cesm2cam6v2/p2/mrso/2009/08/mrso_cesm2cam6v2_03aug2009_00z_d01_d46_m00.nc
+ICE PATH
+/glade/scratch/ssfcst/cesm2cam6v2/ice
+Combining cice files into cesm2cam6v2.08.2009-08-03.00.cice.h.nc in /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/ice/hist
+RUN: ncrcat -4 -L 1 *.cice.h1.*.nc -O /glade/scratch/ssfcst/cesm2cam6v2/ice/cesm2cam6v2.08.2009-08-03.00.cice.h.nc
+Copying ocn daily files into cesm2cam6v2.08.2009-08-03.00.pop.h.nday1.nc
+RUN: nccopy -4 -d 1 /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/ocn/hist/cesm2cam6.2009-08-03.00.pop.h.2009-08-03.nc  /glade/scratch/ssfcst/cesm2cam6v2/ocn/cesm2cam6v2.2009-08-03.00.pop.h.2009-08-03.nc
+Copying /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/atm/hist/cesm2cam6.2009-08-03.00.cam.h3.2009-08-03-00000.nc file into /glade/scratch/ssfcst/cesm2cam6v2/6hourly
+RUN: nccopy -4 -d 1 -VPS,PSL,UBOT,VBOT,Z200,Z500,U10,lat,lon,date,time_bnds,time,gw,ndcur,nscur,nsteph /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/atm/hist/cesm2cam6.2009-08-03.00.cam.h3.2009-08-03-00000.nc  /glade/scratch/ssfcst/cesm2cam6v2/6hourly/cesm2cam6v2.2009-08-03.00.cam.h3.2009-08-03-00000.nc
+Copying /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/atm/hist/cesm2cam6.2009-08-03.00.cam.h2.2009-08-03-00000.nc file into /glade/scratch/ssfcst/cesm2cam6v2/daily
+RUN: nccopy -4 -d 1 -VFLNT,FSNT,FLDS,FSDS,PRECC,PRECL,QREFHT,RHREFHT,RH600,PSL,PS,SNOWHICE,SNOWHLND,CLDTOT,TMQ,SST,LANDFRAC,OCNFRAC,UVzm,VTHzm,UWzm,WTHzm,TROP_P,TROP_T,THzm,Uzm,Vzm,Wzm,PHIS,WSPDSRFMX,WSPDSRFAV,QFLX,U10,TGCLDIWP,TGCLDLWP,lev,ilev,lat,lon,date,time_bnds,time,gw,ndcur,nscur,nsteph /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/atm/hist/cesm2cam6.2009-08-03.00.cam.h2.2009-08-03-00000.nc /glade/scratch/ssfcst/cesm2cam6v2/daily/cesm2cam6v2.2009-08-03.00.cam.h2.2009-08-03-00000.nc
+LND OUTDIR:
+/glade/scratch/ssfcst/cesm2cam6v2/lnd/
+Copying /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/lnd/hist/cesm2cam6.2009-08-03.00.clm2.h0.2009-08-03-00000.nc file into /glade/scratch/ssfcst/cesm2cam6v2/lnd/
+RUN: nccopy -4 -d 1 /glade/scratch/ssfcst/archive/cesm2cam6.2009-08-03.00/lnd/hist/cesm2cam6.2009-08-03.00.clm2.h0.2009-08-03-00000.nc /glade/scratch/ssfcst/cesm2cam6v2/lnd/cesm2cam6v2.2009-08-03.00.clm2.h0.2009-08-03-00000.nc
